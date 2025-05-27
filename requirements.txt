@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+openpyxl
+streamlit_cookies_manager
+firebase-admin
+streamlit-analytics
